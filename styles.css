@@ -1,0 +1,41 @@
+body{
+    background-image: url("public/images/lemon-pie.png");  
+    background-repeat: no-repeat;
+    background-position: 8px 84px;
+}
+section{
+    margin-top: 459px;
+}
+h2{
+    color: #000;
+    font-family: 'Times New Roman';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+h3{
+    color: #000;
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+p{
+    color: #000;
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+li{
+    color: #000;
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
